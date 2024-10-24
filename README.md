@@ -1,8 +1,13 @@
 <h1 align="center">Onda mundo <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px"></h1>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1666&pause=1111&color=539BF5&center=true&vCenter=true&multiline=true&random=false&width=435&height=140&lines=presumir+el+buen+gusto+cuesta;mientras+saltamos;corazones+latiendo;cuando+menos;este+d%C3%ADa">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1666&pause=1111&color=539BF5&center=true&vCenter=true&multiline=true&random=false&width=600&height=280&lines=presumir+el+buen+gusto+cuesta;pero+mientras+saltamos;laten+dos+corazones;cuando+menos;este+d%C3%ADa;+;presumir+los+propios+vicios+tambien+cuesta;pero+mientras+cantamos;son+dos+vidas+que+respiran;cuando+menos;esta+noche">
     </a>
+</div>
+    
+<h2 align="center">My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2>
+
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=slateorange&bg_color=00000000"> -->
         <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=gruvbox&bg_color=00000000">
@@ -24,6 +29,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
