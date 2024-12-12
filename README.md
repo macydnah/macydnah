@@ -10,7 +10,11 @@
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=slateorange&bg_color=00000000"> -->
-        <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=gruvbox&bg_color=00000000">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=gruvbox&bg_color=00000000">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--        <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=slateorange&bg_color=00000000"> -->
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=shell&layout=compact&card_width=320">
     </a>
 </div>
 
