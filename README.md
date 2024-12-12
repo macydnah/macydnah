@@ -5,9 +5,8 @@
     </a>
 </div>
     
-<h2 align="center">My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
-
 <div align="center">
+    <h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=macydnah&show_icons=true&theme=slateorange&bg_color=00000000"> -->
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
@@ -18,9 +17,8 @@
     </a>
 </div>
 
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
+    <h2>:hammer_and_wrench: Languages and Tools :</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C programming language" alt="C programming language" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
