@@ -9,7 +9,7 @@
 <div align="center">
     <h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&rank_icon=github&show_icons=false&include_all_commits=true&theme=gruvbox&bg_color=00000000">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&card_width=300&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=shell&hide_title=true&layout=compact&langs_count=10&card_width=300&size_weight=0.5&count_weight=0.5">
