@@ -28,8 +28,8 @@
 </div>
 
 <!-- Github Stats Widget -->
+<h2><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <div align="center">
-    <h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
     <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="165px" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
