@@ -1,3 +1,4 @@
+<!-- Main Header (Saying Hi) -->
 <div align="left">
     <h1>
         Hola mundo<br>
@@ -5,12 +6,14 @@
     </h1>
 </div>
 
+<!-- Main paragraph (About me introduction) -->
 <div align="left">
     <p>
         Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀
     </p>
 </div>
-    
+
+<!-- Github Stats Widget -->
 <div align="center">
     <h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,6 +24,7 @@
     </a>
 </div>
 
+<!-- Languages and Tools -->
 <div align="center">
     <h2>:hammer_and_wrench: Languages and Tools :</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C programming language" alt="C programming language" width="40" height="40"/>&nbsp;
@@ -42,6 +46,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
+<!-- A brief poem snippet -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1666&pause=1111&color=539BF5&center=true&vCenter=true&multiline=true&random=false&width=600&height=280&lines=presumir+el+buen+gusto+cuesta;pero+mientras+saltamos;laten+dos+corazones;cuando+menos;este+d%C3%ADa;+;presumir+los+propios+vicios+tambien+cuesta;pero+mientras+cantamos;son+dos+vidas+que+respiran;cuando+menos;esta+noche">
