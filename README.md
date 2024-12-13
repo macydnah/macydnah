@@ -23,7 +23,7 @@
     <li>🌱 I'm currently learning Rust🦀</li>
     <li>I like to work with audio and low-level related stuff</li>
     <li>Open Source and FOSS enthusiastic</li>
-    <li>My life's passions are writing: code, music, poetry</li>
+    <li>My life's passions are writing: code, music, poetry; literally</li>
     </ul>
 </div>
 
