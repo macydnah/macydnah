@@ -9,9 +9,10 @@
 <!-- Main paragraph (About me introduction) -->
 <div align="justify">
     <p>
-        I'm a <strong>Software Development Engineering</strong> bachelor student —at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico">UnADM</a>. Formerly musician, I formally studied music and played the piano since I was a kid. An old computer at that time, uncapable of running the most popular OS without crashing to the point of being unusable, more sooner than later lead me to try another OS and found the Open Source and GNU/Linux communities —🌏🌎🌍 🐃🐧. I was going to be a musician, <q>but reality bites, it says: <em>not so fast</em></q> (Nujabes feat. Shing02, 2012). Now I'm pursuing an <strong>IT</strong> career. Overall, I love to create. Anyhows, I enjoy to create things others would as well enjoy. That said, don't be surprised if I hope you to enjoy reading this <code>README.md</code> as much as I'm enjoying writing it.
+    I'm a <strong>Software Development Engineering</strong> bachelor student —at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico">UnADM</a>. Formerly musician, I formally studied music and played the piano since I was a kid. An old computer at that time, uncapable of running the most popular OS without crashing to the point of being unusable, more sooner than later lead me to try another OS and found the Open Source and GNU/Linux communities —🌏🌎🌍 🐃🐧. I was going to be a musician, <q>but reality bites, it says: <em>not so fast</em></q> (Nujabes feat. Shing02, 2012). Now I'm pursuing an <strong>IT</strong> career. Overall, I love to create. Anyhows, I enjoy to create things others would as well enjoy. That said, don't be surprised if I hope you to enjoy reading this <code>README.md</code> as much as I'm enjoying writing it.
+    </p>
     <p>
-        Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀
+    Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀
     </p>
 </div>
 
@@ -19,12 +20,12 @@
 <div align="center">
     <h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
     <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="165" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5">
-        </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="165px" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
+        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5">
+    </a>
+    </p>
+    <p>
     </p>
 </div>
 
@@ -56,3 +57,5 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1666&pause=1111&color=539BF5&center=true&vCenter=true&multiline=true&random=false&width=600&height=280&lines=presumir+el+buen+gusto+cuesta;pero+mientras+saltamos;laten+dos+corazones;cuando+menos;este+d%C3%ADa;+;presumir+los+propios+vicios+tambien+cuesta;pero+mientras+cantamos;son+dos+vidas+que+respiran;cuando+menos;esta+noche">
     </a>
 </div>
+
+<!-- vim: set ft=html ts=4 sw=4 et ai wrap: -->
