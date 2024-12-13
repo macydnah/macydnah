@@ -1,4 +1,13 @@
-<h1 align="center">Onda mundo <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px"></h1>
+<h1 align="left">
+    Hola mundo
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px">
+    <br>
+    I'm Juan
+</h1>
+
+<div align="left">
+    <p>Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀</p>
+</div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -12,7 +21,7 @@
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=shell&hide_title=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=shell&hide_title=true&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5">
     </a>
 </div>
 
