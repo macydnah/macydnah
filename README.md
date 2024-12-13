@@ -7,7 +7,7 @@
 </div>
 
 <!-- Main paragraph (About me introduction) -->
-<div align="left">
+<div align="justify">
     <p>
         Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀
     </p>
