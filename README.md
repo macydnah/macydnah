@@ -8,7 +8,7 @@
 
 <!-- Main paragraph (About me introduction) -->
 <div align="justify">
-    <p>
+    <p style="text-indent: -0.5in; padding-left: 0.5in">
     I'm a <strong>Software Development Engineering</strong> bachelor student —at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico">UnADM</a>. Formerly musician, I formally studied music and played the piano since I was a kid. An old computer at that time, uncapable of running the most popular OS without crashing to the point of being unusable, more sooner than later lead me to try another OS and found the Open Source and GNU/Linux communities. I was going to be a musician, <q>but reality bites, it says: <em>not so fast</em></q> (Nujabes feat. Shing02, 2012). Now I'm pursuing an <strong>IT</strong> career.
     </p>
     <p>
