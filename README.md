@@ -9,6 +9,9 @@
 <!-- Main paragraph (About me introduction) -->
 <div align="justify">
     <p>
+        I'm currently studying a bachelor's degree with a major in <strong>Software engineering</strong> at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico">UnADM</a>. I formally studied music and piano since I was a kid, I was going to be a musician <q>but reality bites, it says not so fast</q> (Nujabes feat. Shing02, 2012) and now I'm pursuing an IT career. Fortunally, an old computer at that time, uncapable of running the most popular OS without crashing to the point of being unusable, more sooner than later lead me to try another OS and found the Open Source and GNU/Linux communities.
+    </p>
+    <p>
         Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀
     </p>
 </div>
