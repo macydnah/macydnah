@@ -1,9 +1,9 @@
-<h1 align="left">
-    Hola mundo
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px">
-    <br>
-    I'm Juan
-</h1>
+<div align="left">
+    <h1>
+        Hola mundo<br>
+        I'm Juan <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px">
+    </h1>
+</div>
 
 <div align="left">
     <p>Self-taught programmer thanks to the open source and GNU/Linux communities 🐧. My life's passions are writing music, poetry and code. Currently learning Rust 🦀</p>
