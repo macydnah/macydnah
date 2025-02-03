@@ -1,68 +1,228 @@
-<!-- Main Header (Saying Hi) -->
-<div align="left">
-    <h1>
-        Hola mundo<br>
-        I'm Juan&nbsp;&nbsp;&nbsp;<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwaDU1aWJ5NWVoNGI5NnB2M3o4ZXFtOWlpMXI5cndicTEyNzE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px">
-    </h1>
+<!-- Banner Top -->
+<div align="center">
+    <picture>
+        <img width="100%" height="100%" title="Topbanner" alt="" src="https://github.com/macydnah/macydnah/blob/assets/banner-top.svg" />
+    </picture>
 </div>
 
-<!-- Main paragraph (About me introduction) -->
-<div align="justify">
-    <p style="text-indent: -0.5in; padding-left: 0.5in">
-    I'm a <strong>Software Development Engineering</strong> bachelor student —at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico">UnADM</a>. Formerly musician, I formally studied music and played the piano since I was a kid. An old computer at that time, uncapable of running the most popular OS without crashing to the point of being unusable, more sooner than later lead me to try another OS and found the Open Source and GNU/Linux communities. I was going to be a musician, <q>but reality bites, it says: <em>not so fast</em></q> (Nujabes feat. Shing02, 2012). Now I'm pursuing an <strong>IT</strong> career.
+<!-- Badges -->
+<div align="right">
+    <!-- Thanks to alexandresanlim for his curated list of badges at https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+    <p>
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/juan-hern%C3%A1ndez-zavala-a633592aa" target="_blank">
+            <picture>
+                <img height="20" title="Contact me on LinkedIn" alt="LinkedId contact" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" />
+            </picture>
+        </a>&nbsp;
+        <!-- Telegram -->
+        <a href="https://t.me/macydnah" target="_blank">
+            <picture>
+                <img height="20" title="Contact me on Telegram" alt="Telegram contact" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto" />
+            </picture>
+        </a>&nbsp;
+        <!-- Stack Overflow -->
+        <a href="https://stackoverflow.com/users/22910935/macydnah" target="_blank">
+            <picture>
+                <img height="20" title="Contact me on StackOverflow" alt="StackOverflow contact" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&logoSize=auto" />
+            </picture>
+        </a>&nbsp;
+        <!-- Mail -->
+        <a href="mailto:juan.hernandez23ids@nube.unadmexico.mx">
+            <picture>
+                <img height="20" title="Mail me" alt="Send a email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=mail.ru&logoColor=white&logoSize=auto" />
+            </picture>
+        </a>&nbsp;
+        <!-- SoundCloud -->
+        <a href="https://soundcloud.com/macydnah" target="_blank">
+            <picture>
+                <img height="20" title="Contact me on SoundCloud" alt="SoundCloud contact" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&logoSize=auto" />
+            </picture>
+        </a>&nbsp;&nbsp;&nbsp;
+        <!-- Profile Views Counter -->
+        <!-- Thanks antonkomarev for this nice badge. Check his project at https://github.com/antonkomarev/github-profile-views-counter -->
+<!--
+        <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=macydnah&color=1f2328&style=for-the-badge&label=PROFILE+VIEWS&base=0&abbreviated=false" />
+                <img height="20" title="Macydnah's GitHub profile views" alt="Number of times Macydnah's GitHub profile has been visited" src="https://komarev.com/ghpvc/?username=macydnah&color=1f2328&style=for-the-badge&label=PROFILE+VIEWS&base=0&abbreviated=false" />
+            </picture>
+        </a>&nbsp;
+-->
     </p>
 </div>
 
-<!-- The list -->
-<div align="left">
-    <ul>
-    <li>Overall, I love to create.</li>
-    <li>Anyhows, I enjoy to create things others would as well enjoy.</li>
-    <li>🌱 I'm currently learning Rust🦀</li>
-    <li>I like to work with audio and low-level related stuff</li>
-    <li>Open Source and FOSS enthusiastic</li>
-    <li>My life's passions are writing: code, music, poetry; literally</li>
-    </ul>
+<!-- Main (Hola Mundo) -->
+<div align="center">
+    <picture>
+        <source width="100%" height="730" media="(max-aspect-ratio: 16/9)" srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg" />
+        <img width="100%" height="530"
+        title="Main. Introduction and bulletpoint list paragraphs about me."
+        alt="Hola mundo. I'm Juan. A Software Development Engineering major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some bits of free and open source software utilities centered on making applications interaction more intuitive. Just released a plugin to preview office documents for Yazi, a terminal's file manager. Also, you'll may find some bits of scripts to ease sysadmin tasks. I enjoy to create things others would as well enjoy. Good design and following best practices early on are the ways to go. Human readable, clean and concise code; and good documentation are our allies.
+            Click on a badge and get in contact.
+            I love to work with Audio, Real-Time Synthesis and Live coding.
+            I'm currently learning Rust.
+            I’m looking to collaborate on Open Source/Commercial projects.
+            I'm exploring Oracle Cloud Infrastructure and Amazon Web Services.
+            I'm looking for help with keyboard backlight sysfs nodes exposed by the Linux kernel.
+            Writing software ampersand poetry.
+            Major at UnADM (Universidad Abierta y a Distancia de México)"
+        src="https://github.com/macydnah/macydnah/blob/assets/main.svg"
+        />
+    </picture>
 </div>
 
-<!-- Github Stats Widget -->
-<h2><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
+<!-- Separator -->
+<div align="center">
+    <picture>
+        <img width="100%" height="50" title="" alt="" src="https://github.com/macydnah/macydnah/blob/assets/blank.svg" />
+    </picture>
+</div>
+
+<!-- Stats, Languages and Tools section -->
 <div align="center">
     <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5">
-    </a>
+        <picture>
+            <!-- Thanks to the designer for this icon. Icons8 doesn't name the author, but here's the link https://icons8.com/icon/600MeI55fCza/tools -->
+            <img width="40" height="40"
+            title="Stats, Languages and Tools section"
+            alt="Stats, Languages and Tools section. Imagine the sound of wrenching with a wrench and screwdriving a screwdriver"
+            src="https://github.com/macydnah/macydnah/blob/assets/tools.gif"
+            />
+        </picture>
     </p>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+    <!-- Thanks anuraghazra for this nice widget. Check it at https://github.com/anuraghazra/github-readme-stats -->
     <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_border=true&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&bg_color=00000000&icon_color=f0f6fc&text_color=f0f6fc" />
+                <img height="165" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_border=true&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&bg_color=00000000&icon_color=1f2328&text_color=1f2328" />
+            </picture>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=f0f6fc&text_color=f0f6fc" />
+                <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=1f2328&text_color=1f2328" />
+            </picture>
+        </a>
     </p>
 </div>
 
 <!-- Languages and Tools -->
 <div align="center">
-    <h2>:hammer_and_wrench: Languages and Tools :</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C programming language" alt="C programming language" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/supercollider/supercollider/blob/develop/icons/sc_logo.svg" title="SuperCollider" alt="SuperCollider" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <!-- Thanks to devicons. Check out their amazing project for professional logos at https://github.com/devicons/devicon -->
+    <p>
+        <!-- C programming language -->
+        <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="C programming language" alt="C programming language" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Python -->
+        <a href="https://www.python.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Python" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Rust -->
+        <a href="https://www.rust-lang.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Rust" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Lua -->
+        <a href="https://lua.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Lua" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- SuperCollider -->
+        <a href="https://supercollider.github.io/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="SuperCollider" alt="SuperCollider" src="https://github.com/supercollider/supercollider/blob/develop/icons/sc_logo.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- bash -->
+        <a href="https://www.gnu.org/software/bash/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="bash" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Linux -->
+        <a href="https://kernel.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Linux" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Git -->
+        <a href="https://git-scm.com/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Git" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- HTML -->
+        <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="HTML5" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- CSS -->
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+            <picture>
+                <img width="35" height="35" title="CSS3" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- MongoDB -->
+        <a href="https://www.mongodb.com/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="MongoDB" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- docker -->
+        <a href="https://www.docker.com/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="docker" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- GCC -->
+        <a href="https://gcc.gnu.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="GCC" alt="GCC" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Vim -->
+        <a href="https://www.vim.org/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Vim" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Arch Linux -->
+        <a href="https://wiki.archlinux.org/title/Arch_Linux" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Arch Linux" alt="Arch Linux" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" />&nbsp;
+            </picture>
+        </a>
+        <!-- Ubuntu -->
+        <a href="https://ubuntu.com/" target="_blank">
+            <picture>
+                <img width="35" height="35" title="Ubuntu" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />&nbsp;
+            </picture>
+        </a>
+    </p>
 </div>
 
-<!-- A brief poem snippet -->
+<!-- Separator -->
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1666&pause=1111&color=539BF5&center=true&vCenter=true&multiline=true&random=false&width=600&height=280&lines=presumir+el+buen+gusto+cuesta;pero+mientras+saltamos;laten+dos+corazones;cuando+menos;este+d%C3%ADa;+;presumir+los+propios+vicios+tambien+cuesta;pero+mientras+cantamos;son+dos+vidas+que+respiran;cuando+menos;esta+noche">
-    </a>
+    <picture>
+        <img width="100%" height="50" title="" alt="" src="https://github.com/macydnah/macydnah/blob/assets/blank.svg" />
+    </picture>
+</div>
+
+<!-- Banner Bottom -->
+<div align="center">
+    <picture>
+        <img width="100%" height="100%" title="Bottombanner" alt="" src="https://github.com/macydnah/macydnah/blob/assets/banner-bottom.svg" />
+    </picture>
 </div>
