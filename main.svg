@@ -1,0 +1,315 @@
+<svg style="background-color: none;" xmlns="http://www.w3.org/2000/svg">
+  <style>
+	@media (prefers-color-scheme: light) {
+	  * {
+	    --fgColor-default: #1f2328;
+	    --fgColor-invert: #f0f6fc;
+	    --borderColor: #3d444db3;
+	    --boxShadowColor: #1f2328;
+	    --bgColor-muted: #f6f8fa;
+	  }
+	}
+
+	@media (prefers-color-scheme: dark) {
+	  * {
+	    --fgColor-default: #f0f6fc;
+	    --fgColor-invert: #1f2328;
+	    --borderColor: #d1d9e0b3;
+	    --boxShadowColor: #f0f6fc;
+	    --bgColor-muted: #151b23;
+	  }
+	}
+  </style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+	a {
+	  color: var(--fgColor-default);
+	  text-decoration: none;
+	}
+
+	blockquote {
+	  color: var(--fgColor-default);
+	  background-color: var(--bgColor-muted);
+	  border-radius: 12px;
+	  font-family: ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+	  font-size: 0.85rem;
+	  line-height: 1.45rem;
+	  padding: 0.5rem;
+	  margin: 1em 0em;
+	}
+
+	.block {
+	  color: var(--fgColor-default);
+	  background-color: var(--bgColor-muted);
+	  border-radius: 12px;
+	  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	  font-size: 0.85rem;
+	  line-height: 1.45rem;
+	  padding: 0.5rem;
+	  margin: 1em 0em;
+	}
+
+	code {
+	  font-family: ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+	  font-size: 0.875rem;
+	  font-weight: 700;
+	}
+
+	h1 {
+	  color: var(--fgColor-default);
+	  text-align: left;
+	  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	  font-size: 2em;
+	  font-weight: 600;
+	  margin-top: 0.0rem;
+	  margin-bottom: 0.0rem;
+	  padding-bottom: 0.25em;
+	  border-bottom: 0px solid var(--borderColor);
+	}
+
+	h2 {
+	  color: var(--fgColor-default);
+	  text-align: left;
+	  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	  font-size: 1.5em;
+	  font-weight: 600;
+	  margin-top: 0.0rem;
+	  margin-bottom: 0.0rem;
+	  padding-bottom: 0.0em;
+	  border-bottom: 0px solid var(--borderColor);
+	}
+
+	h3 {
+	  color: var(--fgColor-default);
+	  text-align: left;
+	  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	  font-size: 1.25em;
+	  font-weight: 600;
+	  margin-top: 0.0rem;
+	  margin-bottom: 0.0rem;
+	  padding-bottom: 0.0em;
+	  border-bottom: 0px solid var(--borderColor);
+	}
+
+	li {
+	  margin-top: 0.5em;
+	  margin-left: -1em;
+	  line-height: 1.3em;
+	  padding: 0em;
+	}
+
+	.li1 {
+	  margin-top: 0em;
+	}
+
+	p {
+	  color: var(--fgColor-default);
+	  text-align: justify;
+	  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	}
+
+	table {
+	  border-collapse: separate;
+	  border-spacing: 0.75em;
+	  margin: 0.75em;
+	}
+
+	td {
+	  color: var(--fgColor-default);
+	  vertical-align: top;
+	}
+	
+	.sangrado {
+	  text-indent: 10em;
+	  padding-left: -10em;
+	}
+
+	.snippet {
+	  animation-name: glow;
+	  animation-duration: 2s;
+	  animation-iteration-count: 2;
+	  border: 0px solid var(--borderColor);
+	  border-radius: 12px;
+	  box-shadow: 0px 0px 0.5em var(--boxShadowColor);
+	}
+
+	.wave {
+	  animation-name: wave;
+	  animation-duration: 2s;
+	  animation-iteration-count: 3;
+	  tansform-origin: 70% 70%;
+	  display: inline-block;
+	}
+
+	@keyframes glow {
+	  0% { box-shadow: 0px 0px 0.5em var(--boxShadowColor) }
+	  1% { box-shadow: 0px 0px 0.49em var(--boxShadowColor) }
+	  2% { box-shadow: 0px 0px 0.48em var(--boxShadowColor) }
+	  3% { box-shadow: 0px 0px 0.47em var(--boxShadowColor) }
+	  4% { box-shadow: 0px 0px 0.46em var(--boxShadowColor) }
+	  5% { box-shadow: 0px 0px 0.45em var(--boxShadowColor) }
+	  6% { box-shadow: 0px 0px 0.44em var(--boxShadowColor) }
+	  7% { box-shadow: 0px 0px 0.43em var(--boxShadowColor) }
+	  8% { box-shadow: 0px 0px 0.42em var(--boxShadowColor) }
+	  9% { box-shadow: 0px 0px 0.41em var(--boxShadowColor) }
+	  10% { box-shadow: -0px 0px 0.40em var(--boxShadowColor) }
+	  11% { box-shadow: -0px 0px 0.39em var(--boxShadowColor) }
+	  12% { box-shadow: -0px 0px 0.38em var(--boxShadowColor) }
+	  13% { box-shadow: -0px 0px 0.37em var(--boxShadowColor) }
+	  14% { box-shadow: -0px 0px 0.36em var(--boxShadowColor) }
+	  15% { box-shadow: -0px 0px 0.35em var(--boxShadowColor) }
+	  16% { box-shadow: -0px 0px 0.34em var(--boxShadowColor) }
+	  17% { box-shadow: -0px 0px 0.33em var(--boxShadowColor) }
+	  18% { box-shadow: -0px 0px 0.32em var(--boxShadowColor) }
+	  19% { box-shadow: -0px 0px 0.31em var(--boxShadowColor) }
+	  20% { box-shadow: -0px 0px 0.30em var(--boxShadowColor) }
+	  21% { box-shadow: -0px 0px 0.29em var(--boxShadowColor) }
+	  22% { box-shadow: -0px 0px 0.28em var(--boxShadowColor) }
+	  23% { box-shadow: -0px 0px 0.27em var(--boxShadowColor) }
+	  24% { box-shadow: -0px 0px 0.26em var(--boxShadowColor) }
+	  25% { box-shadow: -0px 0px 0.25em var(--boxShadowColor) }
+	  26% { box-shadow: -0px 0px 0.24em var(--boxShadowColor) }
+	  27% { box-shadow: -0px 0px 0.23em var(--boxShadowColor) }
+	  28% { box-shadow: -0px 0px 0.22em var(--boxShadowColor) }
+	  29% { box-shadow: -0px 0px 0.21em var(--boxShadowColor) }
+	  30% { box-shadow: -0px 0px 0.20em var(--boxShadowColor) }
+	  31% { box-shadow: -0px 0px 0.19em var(--boxShadowColor) }
+	  32% { box-shadow: -0px 0px 0.18em var(--boxShadowColor) }
+	  33% { box-shadow: -0px 0px 0.17em var(--boxShadowColor) }
+	  34% { box-shadow: -0px 0px 0.16em var(--boxShadowColor) }
+	  35% { box-shadow: -0px 0px 0.15em var(--boxShadowColor) }
+	  36% { box-shadow: -0px 0px 0.14em var(--boxShadowColor) }
+	  37% { box-shadow: -0px 0px 0.13em var(--boxShadowColor) }
+	  38% { box-shadow: -0px 0px 0.12em var(--boxShadowColor) }
+	  39% { box-shadow: -0px 0px 0.11em var(--boxShadowColor) }
+	  40% { box-shadow: 0px -0px 0.10em var(--boxShadowColor) }
+	  41% { box-shadow: 0px -0px 0.09em var(--boxShadowColor) }
+	  42% { box-shadow: 0px -0px 0.08em var(--boxShadowColor) }
+	  43% { box-shadow: 0px -0px 0.07em var(--boxShadowColor) }
+	  44% { box-shadow: 0px -0px 0.06em var(--boxShadowColor) }
+	  45% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  46% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  47% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  48% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  49% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  50% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  51% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  52% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  53% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  54% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  55% { box-shadow: 0px -0px 0.05em var(--boxShadowColor) }
+	  56% { box-shadow: 0px -0px 0.06em var(--boxShadowColor) }
+	  57% { box-shadow: 0px -0px 0.07em var(--boxShadowColor) }
+	  58% { box-shadow: 0px -0px 0.08em var(--boxShadowColor) }
+	  59% { box-shadow: 0px -0px 0.09em var(--boxShadowColor) }
+	  60% { box-shadow: 0px -0px 0.10em var(--boxShadowColor) }
+	  61% { box-shadow: 0px -0px 0.11em var(--boxShadowColor) }
+	  62% { box-shadow: 0px -0px 0.12em var(--boxShadowColor) }
+	  63% { box-shadow: 0px -0px 0.13em var(--boxShadowColor) }
+	  64% { box-shadow: 0px -0px 0.14em var(--boxShadowColor) }
+	  65% { box-shadow: 0px -0px 0.15em var(--boxShadowColor) }
+	  66% { box-shadow: 0px -0px 0.16em var(--boxShadowColor) }
+	  67% { box-shadow: 0px -0px 0.17em var(--boxShadowColor) }
+	  68% { box-shadow: 0px -0px 0.18em var(--boxShadowColor) }
+	  69% { box-shadow: 0px -0px 0.19em var(--boxShadowColor) }
+	  70% { box-shadow: 0px -0px 0.20em var(--boxShadowColor) }
+	  71% { box-shadow: 0px -0px 0.21em var(--boxShadowColor) }
+	  72% { box-shadow: 0px -0px 0.22em var(--boxShadowColor) }
+	  73% { box-shadow: 0px -0px 0.23em var(--boxShadowColor) }
+	  74% { box-shadow: 0px -0px 0.24em var(--boxShadowColor) }
+	  75% { box-shadow: 0px -0px 0.25em var(--boxShadowColor) }
+	  76% { box-shadow: 0px -0px 0.26em var(--boxShadowColor) }
+	  77% { box-shadow: 0px -0px 0.27em var(--boxShadowColor) }
+	  78% { box-shadow: 0px -0px 0.28em var(--boxShadowColor) }
+	  79% { box-shadow: 0px -0px 0.29em var(--boxShadowColor) }
+	  80% { box-shadow: 0px -0px 0.30em var(--boxShadowColor) }
+	  81% { box-shadow: 0px -0px 0.31em var(--boxShadowColor) }
+	  82% { box-shadow: 0px -0px 0.32em var(--boxShadowColor) }
+	  83% { box-shadow: 0px -0px 0.33em var(--boxShadowColor) }
+	  84% { box-shadow: 0px -0px 0.34em var(--boxShadowColor) }
+	  85% { box-shadow: 0px -0px 0.35em var(--boxShadowColor) }
+	  86% { box-shadow: 0px -0px 0.36em var(--boxShadowColor) }
+	  87% { box-shadow: 0px -0px 0.37em var(--boxShadowColor) }
+	  88% { box-shadow: 0px -0px 0.38em var(--boxShadowColor) }
+	  89% { box-shadow: 0px -0px 0.39em var(--boxShadowColor) }
+	  90% { box-shadow: 0px -0px 0.40em var(--boxShadowColor) }
+	  91% { box-shadow: 0px -0px 0.41em var(--boxShadowColor) }
+	  92% { box-shadow: 0px -0px 0.42em var(--boxShadowColor) }
+	  93% { box-shadow: 0px -0px 0.43em var(--boxShadowColor) }
+	  94% { box-shadow: 0px -0px 0.44em var(--boxShadowColor) }
+	  95% { box-shadow: 0px -0px 0.45em var(--boxShadowColor) }
+	  96% { box-shadow: 0px -0px 0.46em var(--boxShadowColor) }
+	  97% { box-shadow: 0px -0px 0.47em var(--boxShadowColor) }
+	  98% { box-shadow: 0px -0px 0.48em var(--boxShadowColor) }
+	  99% { box-shadow: 0px -0px 0.49em var(--boxShadowColor) }
+	  100% { box-shadow: 0px 0px 0.5em var(--boxShadowColor) }
+	}
+
+	@keyframes wave {
+	  /* A Pen by Jake Jarvis. https://codepen.io/jakejarvis/pen/pBZWZw */
+	  0% { transform: rotate( 0.0deg) }
+	  10% { transform: rotate(14.0deg) }
+	  /* The following five values can be played with to make the waving more or less extreme */
+	  20% { transform: rotate(-8.0deg) }
+	  30% { transform: rotate(14.0deg) }
+	  40% { transform: rotate(-4.0deg) }
+	  50% { transform: rotate(10.0deg) }
+	  /* Reset for the last half to pause */
+	  60% { transform: rotate( 0.0deg) }
+	  100% { transform: rotate( 0.0deg) }
+	}
+      </style>
+      <table class="snippet">
+	<tr height="100%">
+	  <td width="100%" height="100%" colspan="2">
+	    <h1>
+      	      Hola mundo<br />
+      	      I'm Juan&#160;&#160;&#160;&#160;<span style="font-size: 1.75rem;" class="wave">👋</span>
+      	    </h1>
+	  </td>
+	</tr>
+	<tr height="100%">
+	  <td width="60%" height="100%">
+	    <p class="sangrado">
+	      A <code>Software Development Engineering</code> major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some <code>bits</code> of <em>free and open source software</em> utilities aimed to be intuitive and easy to use.
+	    </p>
+	    <p>
+	      Just released a plugin to preview office documents for Yazi, a terminal's file manager. Also, you'll may find some <code>bits</code> of scripts to ease sysadmin tasks.
+	    </p>
+	    <p>
+	      I enjoy to create things others would as well enjoy. <code>Good design</code> and following <code>best practices</code> early on are the ways to go. Human readable, clean and concise <code>code</code>; and <code>good documentation</code> are our allies.
+	    </p>
+	  </td>
+	  <td height="100%">
+	    <ul>
+	      <li class="li1">📫 Click on a badge 👆 and get in contact</li>
+	      <li>👨‍💻 I love to work with <code>Audio</code>, <code>Real-Time Synthesis</code> and <code>Live coding</code></li>
+	      <li>🌱 I'm currently learning <code>Rust🦀</code></li>
+	      <li>🤝 I’m looking to collaborate on <code>Open Source/Commercial</code> projects</li>
+	      <li>🔭 I'm exploring <code>Oracle Cloud Infrastructure</code> and <code>Amazon Web Services</code></li>
+	      <li>🤔 I'm looking for help with keyboard backlight <code>sysfs nodes</code> exposed by the <code>Linux</code> kernel</li>
+	      <li>✍️ Writing <code>software</code> <em>ampersand</em> poetry</li>
+	      <!-- github-flavored-markdown rips off the clickable href, but the anchor tags are anyhows rendered -->
+	      <li>🎓 Major at <a href="https://en.wikipedia.org/wiki/Universidad_Abierta_y_a_Distancia_de_M%C3%A9xico"><code>UnADM</code> (Universidad Abierta y a Distancia de México🇲🇽)</a></li>
+	    </ul>
+	  </td>
+	</tr>
+<!--
+	<tr height="100%">
+	  <td width="100%" height="100%" colspan="2">
+	    <p>
+	      🎉 Fun fact:<br />
+	      <blockquote>
+		A machine learning about human learning once said:<br />
+	      	<br />
+	      	—Los burritos🌯 son alimento —
+	      </blockquote>
+	    </p>
+	  </td>
+	</tr>
+-->
+      </table>
+    </div>
+  </foreignObject>
+</svg>
