@@ -57,39 +57,39 @@
     <picture>
         <source width="100%" height="530"
         media="(min-width: 1367px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="530"
         media="(max-width: 1366px) and (min-width: 1207px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="640"
         media="(max-width: 1206px) and (min-width: 1051px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="665"
         media="(max-width: 1050px) and (min-width: 1017px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="725"
         media="(max-width: 1016px) and (min-width: 991px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="930"
         media="(max-width: 990px) and (min-width: 769px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="705"
         media="(max-width: 768px) and (min-width: 676px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="725"
         media="(max-width: 675px) and (min-width: 457px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <source width="100%" height="170"
         media="(max-width: 456px)"
-        srcset="img/main.svg"
+        srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
         <img width="100%" height="170"
         title="Main. Introduction and bulletpoint list paragraphs about me."
