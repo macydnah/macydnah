@@ -12,7 +12,7 @@
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/juan-hern%C3%A1ndez-zavala-a633592aa" target="_blank">
             <picture>
-                <img height="20" title="Contact me on LinkedIn" alt="LinkedId contact" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" />
+                <img height="20" title="Contact me on LinkedIn" alt="LinkedIn contact" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" />
             </picture>
         </a>&nbsp;
         <!-- Telegram -->
@@ -55,10 +55,45 @@
 <!-- Main (Hola Mundo) -->
 <div align="center">
     <picture>
-        <source width="100%" height="730" media="(max-aspect-ratio: 16/9)" srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg" />
-        <img width="100%" height="530"
+        <source width="100%" height="530"
+        media="(min-width: 1367px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="530"
+        media="(max-width: 1366px) and (min-width: 1207px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="640"
+        media="(max-width: 1206px) and (min-width: 1051px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="665"
+        media="(max-width: 1050px) and (min-width: 1017px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="725"
+        media="(max-width: 1016px) and (min-width: 991px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="930"
+        media="(max-width: 990px) and (min-width: 769px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="705"
+        media="(max-width: 768px) and (min-width: 676px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="725"
+        media="(max-width: 675px) and (min-width: 457px)"
+        srcset="img/main.svg"
+        />
+        <source width="100%" height="170"
+        media="(max-width: 456px)"
+        srcset="img/main.svg"
+        />
+        <img width="100%" height="170"
         title="Main. Introduction and bulletpoint list paragraphs about me."
-        alt="Hola mundo. I'm Juan. A Software Development Engineering major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some bits of free and open source software utilities centered on making applications interaction more intuitive. Just released a plugin to preview office documents for Yazi, a terminal's file manager. Also, you'll may find some bits of scripts to ease sysadmin tasks. I enjoy to create things others would as well enjoy. Good design and following best practices early on are the ways to go. Human readable, clean and concise code; and good documentation are our allies.
+        alt="Hola mundo. I'm Juan. A Software Development Engineering major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some bits of free and open source software utilities centered on making applications interaction more intuitive. Just released a plugin to preview office documents for Yazi, a terminal's file manager; and you will find some <code>bits</code> of scripts to ease sysadmin tasks too. I enjoy to create things others would as well enjoy. Good design and following best practices early on are the ways to go. Human readable, clean and concise code; and good documentation are our allies.
             Click on a badge and get in contact.
             I love to work with Audio, Real-Time Synthesis and Live coding.
             I'm currently learning Rust.
