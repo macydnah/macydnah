@@ -278,7 +278,10 @@
 	      A <code>Software Development Engineering</code> major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some <code>bits</code> of <em>free and open source software</em> utilities aimed to be intuitive and easy to use.
 	    </p>
 	    <p>
-	      Just released a plugin to preview office documents for Yazi, a terminal's file manager; and you will find some <code>bits</code> of scripts to ease sysadmin tasks too.
+	      Just released a plugin to preview office documents for <code>Yazi</code>, a file manager for the terminal; and you will find some <code>bits</code> of scripts to ease sysadmin tasks too.
+	    </p>
+	    <p>
+	      Also, I'm maintaining a public <code>SearXNG</code> instance. If you're interested you can find it at: <a href="http://salem.poteica.com.mx"><code>salem.poteica.com.mx</code></a>
 	    </p>
 	    <p>
 	      I enjoy to create things others would as well enjoy. <code>Good design</code> and following <code>best practices</code> early on are the ways to go. Human readable, clean and concise <code>code</code>; and <code>good documentation</code> are our allies.
