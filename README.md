@@ -55,43 +55,53 @@
 <!-- Main (Hola Mundo) -->
 <div align="center">
     <picture>
-        <source width="100%" height="530"
+        <!-- <source width="100%" height="530" -->
+        <source width="100%" height="550"
         media="(min-width: 1367px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="530"
+        <!-- <source width="100%" height="530" -->
+        <source width="100%" height="550"
         media="(max-width: 1366px) and (min-width: 1207px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="640"
+        <!-- <source width="100%" height="640" -->
+        <source width="100%" height="660"
         media="(max-width: 1206px) and (min-width: 1051px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="665"
+        <!-- <source width="100%" height="665" -->
+        <source width="100%" height="685"
         media="(max-width: 1050px) and (min-width: 1017px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="725"
+        <!-- <source width="100%" height="725" -->
+        <source width="100%" height="745"
         media="(max-width: 1016px) and (min-width: 991px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="930"
+        <!-- <source width="100%" height="930" -->
+        <source width="100%" height="950"
         media="(max-width: 990px) and (min-width: 769px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="705"
+        <!-- <source width="100%" height="705" -->
+        <source width="100%" height="725"
         media="(max-width: 768px) and (min-width: 676px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="725"
+        <!-- <source width="100%" height="725" -->
+        <source width="100%" height="745"
         media="(max-width: 675px) and (min-width: 457px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <source width="100%" height="170"
+        <!-- <source width="100%" height="170" -->
+        <source width="100%" height="190"
         media="(max-width: 456px)"
         srcset="https://github.com/macydnah/macydnah/blob/assets/main.svg"
         />
-        <img width="100%" height="170"
+        <!-- <img width="100%" height="170" -->
+        <img width="100%" height="190"
         title="Main. Introduction and bulletpoint list paragraphs about me."
         alt="Hola mundo. I'm Juan. A Software Development Engineering major student. This is a place where I open source my personal projects. Feel free to give my repos a look, you'll find some bits of free and open source software utilities centered on making applications interaction more intuitive. Just released a plugin to preview office documents for Yazi, a terminal's file manager; and you will find some <code>bits</code> of scripts to ease sysadmin tasks too. I enjoy to create things others would as well enjoy. Good design and following best practices early on are the ways to go. Human readable, clean and concise code; and good documentation are our allies.
             Click on a badge and get in contact.
@@ -138,8 +148,8 @@
                 <img height="165" src="https://github-readme-stats.vercel.app/api?username=macydnah&hide_title=true&hide_border=true&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&bg_color=00000000&icon_color=1f2328&text_color=1f2328" />
             </picture>
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=f0f6fc&text_color=f0f6fc" />
-                <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=none&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=1f2328&text_color=1f2328" />
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=vim%20script&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=f0f6fc&text_color=f0f6fc" />
+                <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macydnah&hide=vim%20script&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&icon_color=1f2328&text_color=1f2328" />
             </picture>
         </a>
     </p>
